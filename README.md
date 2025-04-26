@@ -49,12 +49,12 @@ I'm learning programming with a focus on:
 
 ### 📌 Projects
 
-`Todo List Application` https://github.com/kyasan/Todo-List-Application.git  
-  → A clean and beautiful Todo List web application built with React + TypeScript.  
-  
+`Quiz App` https://github.com/kyasan/Quiz-App.git  
+  → An interactive quiz application built with React and Material-UI, featuring a beautiful frosted glass design and smooth animations.
+
 `Technical Blog System` https://github.com/kyasan/Technical-Blog-System.git  
   → A modern technical blog system built with React, TypeScript, and Material-UI.
 
-`Quiz App` https://github.com/kyasan/Quiz-App.git  
-  → An interactive quiz application built with React and Material-UI, featuring a beautiful frosted glass design and smooth animations.
+`Todo List Application` https://github.com/kyasan/Todo-List-Application.git  
+  → A clean and beautiful Todo List web application built with React + TypeScript.  
 
