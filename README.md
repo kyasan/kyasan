@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Li!
+## 👋 Hi there!
 
 🎓 Clinical Psychology student @ Meiji University, Tokyo  
 🌏 Multilingual learner: 🇨🇳 Chinese(Native) / 🇺🇸 English（Business level） / 🇯🇵 Japanese（Business level） / 🇰🇷 Korean （Beginner）  
