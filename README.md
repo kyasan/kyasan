@@ -1,7 +1,7 @@
 ## 👋 Hi there!
 
 🎓 Clinical Psychology student @ Meiji University, Tokyo  
-🌏 Multilingual learner: 🇨🇳 Chinese(Native) / 🇺🇸 English（Business level） / 🇯🇵 Japanese（Business level） / 🇰🇷 Korean （Beginner）  
+🌏 Multilingual learner: 🇨🇳 Chinese(Native) / 🇺🇸 English（Business level） / 🇯🇵 Japanese（Business level） / 🇮🇹 Italian （Beginner） , have lived in 🇺🇸🇨🇦🇯🇵🇨🇳  
 💻 Future Software Developer | Psychology × Technology  
 🎮 PC Gamer | F1 fan  
 
