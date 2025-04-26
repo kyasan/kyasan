@@ -38,10 +38,10 @@ I'm learning programming with a focus on:
 
 ### 🛠 Skills (In Progress)
 
-Languages: TypeScript, HTML/CSS, Python
-Tools: VSCode, Git/GitHub, Figma, Canva, Notion, Obsidian  
-Frameworks: React, Next.js (learning), NestJS (learning), Flask  
-Other: Academic research, cross-cultural teamwork, DX insights, UX behavior modeling
+- Languages: TypeScript, HTML/CSS, Python
+- Tools: VSCode, Git/GitHub, Figma, Canva, Notion, Obsidian  
+- Frameworks: React, Next.js (learning), NestJS (learning), Flask  
+- Other: Academic research, cross-cultural teamwork, DX insights, UX behavior modeling
 
 
 ---
