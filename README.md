@@ -52,7 +52,7 @@ I'm learning programming with a focus on:
 - 🤝 Help people through tech × psychology  
 - 🎨 Create interfaces that feel safe & beautiful  
 - 🔍 Work in a field I love (games / motorsports / creative tools)  
-- 🧸 Build something meaningful as a neurodivergent developer
+- 🧸 Build something meaningful  
 
 
 ---
