@@ -62,7 +62,8 @@ I'm learning programming with a focus on:
 ### 📌 Projects
 
 `Todo List Application`（https://github.com/kyasan/Todo-List-Application.git）  
-  → A clean and beautiful Todo List web application built with React + TypeScript.
+  → A clean and beautiful Todo List web application built with React + TypeScript.  
+  
 `Technical Blog System`（https://github.com/kyasan/Technical-Blog-System.git）  
   → A modern technical blog system built with React, TypeScript, and Material-UI.
 
