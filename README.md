@@ -1,11 +1,13 @@
 ## 👋 Hi there, I’m Li Jiang!
 
 🎓 Clinical Psychology student @ Meiji University, Tokyo  
-🌏 Multilingual learner (🇨🇳 Chinese / 🇯🇵 Japanese / 🇺🇸 English)  
+🌏 Multilingual learner: 🇨🇳 Chinese(Native) / 🇯🇵 Japanese（Business level） / 🇺🇸 English（Business level） / 🇰🇷 Korean （Beginner）
 💻 Future Software Developer | Psychology × Technology  
 🎮 PC Gamer | F1 fan | Paper nerd | Sticker enthusiast  
 
+
 ---
+
 
 ### 👩‍💻 About Me
 
