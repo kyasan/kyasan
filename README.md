@@ -49,8 +49,8 @@ I'm learning programming with a focus on:
 
 ### 📌 Projects
 
-`Quiz App` https://github.com/kyasan/Quiz-App.git  
-  → An interactive quiz application built with React and Material-UI, featuring a beautiful frosted glass design and smooth animations.
+`Quiz Application` https://github.com/kyasan/Quiz-App.git  
+  → An interactive quiz web application built with React and Material-UI, featuring a beautiful frosted glass design and smooth animations.
 
 `Technical Blog System` https://github.com/kyasan/Technical-Blog-System.git  
   → A modern technical blog system built with React, TypeScript, and Material-UI.
