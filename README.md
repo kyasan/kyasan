@@ -18,7 +18,6 @@ My journey began in clinical psychology, but I’ve discovered a love for solvin
 
 I'm learning programming with a focus on:
 - 🌐 Web development (React / TypeScript / NestJS)
-- 🐍 Python (Data analysis / Backend / AI tools)
 - 📊 Data-driven UX and behavior analysis
 
 
