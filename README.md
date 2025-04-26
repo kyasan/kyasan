@@ -47,17 +47,6 @@ I'm learning programming with a focus on:
 ---
 
 
-### 🧡 Goals  
-
-- 🤝 Help people through tech × psychology  
-- 🎨 Create interfaces that feel safe & beautiful  
-- 🔍 Work in a field I love (games / motorsports / creative tools)  
-- 🧸 Build something meaningful  
-
-
----
-
-
 ### 📌 Projects
 
 `Todo List Application`（https://github.com/kyasan/Todo-List-Application.git）  
