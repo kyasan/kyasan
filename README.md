@@ -1,4 +1,4 @@
-## 👋 Hi there, I’m Li Jiang!
+## 👋 Hi there, I’m Li!
 
 🎓 Clinical Psychology student @ Meiji University, Tokyo  
 🌏 Multilingual learner: 🇨🇳 Chinese(Native) / 🇯🇵 Japanese（Business level） / 🇺🇸 English（Business level） / 🇰🇷 Korean （Beginner）
@@ -21,7 +21,9 @@ I'm learning programming with a focus on:
 - 🐍 Python (Data analysis / Backend / AI tools)
 - 📊 Data-driven UX and behavior analysis
 
+
 ---
+
 
 ### 📚 Background  
 - TOEIC: 935 | TOEFL: 91 | JLPT N1  
@@ -30,7 +32,9 @@ I'm learning programming with a focus on:
 - Designing planner inserts, stickers, and coding tiny web apps for fun  
 - Preparing for 就活 as 27卒 🎓  
 
+
 ---
+
 
 ### 🛠 Skills (In Progress)
 
@@ -39,7 +43,9 @@ Tools: VSCode, Git/GitHub, Figma, Canva, Notion, Obsidian
 Frameworks: React, Next.js (learning), NestJS (learning), Flask  
 Other: Academic research, cross-cultural teamwork, DX insights, UX behavior modeling
 
+
 ---
+
 
 ### 🧡 Goals  
 
