@@ -16,11 +16,6 @@ I'm passionate about creating user-friendly digital experiences that are informe
 
 My journey began in clinical psychology, but I’ve discovered a love for solving problems with code—especially when it helps people in real life.
 
-I'm learning programming with a focus on:
-- 🌐 Web development (React / TypeScript / NestJS)
-- 📊 Data-driven UX and behavior analysis
-
-
 ---
 
 
