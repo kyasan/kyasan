@@ -41,7 +41,7 @@ I'm learning programming with a focus on:
 - 💬 Languages: TypeScript, HTML/CSS, Python (learning)
 - 🧰 Tools: VSCode, Git/GitHub, Figma(learning), Canva, Notion, Obsidian  
 - 🔧 Frameworks: React (learning), Next.js (learning), NestJS (learning)  
-- 🧠 Other: Academic research, cross-cultural teamwork, DX insights, UX behavior modeling
+- 🧠 Other: Cross-cultural teamwork, academic research, UX behavior modeling
 
 
 ---
