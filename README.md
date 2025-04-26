@@ -48,6 +48,17 @@ I'm learning programming with a focus on:
 ---
 
 
+### 🧡 Goals  
+
+- 🤝 Help people through tech × psychology  
+- 🎨 Create interfaces that feel safe & beautiful  
+- 🔍 Work in a field I love (games / motorsports / creative tools)  
+- 🧸 Build something meaningful as a neurodivergent developer
+
+
+---
+
+
 ### 📌 Projects
 
 -  `Todo List Application`（https://github.com/kyasan/Todo-List-Application.git）  
@@ -56,12 +67,4 @@ I'm learning programming with a focus on:
   → A modern technical blog system built with React, TypeScript, and Material-UI.
 
 
----
 
-
-### 🧡 Goals  
-
-- 🤝 Help people through tech × psychology  
-- 🎨 Create interfaces that feel safe & beautiful  
-- 🔍 Work in a field I love (games / motorsports / creative tools)  
-- 🧸 Build something meaningful as a neurodivergent developer
