@@ -29,7 +29,7 @@ I'm learning programming with a focus on:
 - TOEIC: 935 | TOEFL: 91 | JLPT N1  
 - Studied at University of Pennsylvania (Short-term program)  
 - Self-taught TypeScript & Web Dev  
-- Designing planner inserts, stickers, and coding tiny web apps for fun  
+- Coding tiny web apps, designing planner inserts and stickers for fun  
 - Preparing for 就活 as 27卒 🎓  
 
 
