@@ -16,10 +16,10 @@ I'm passionate about creating user-friendly digital experiences that are informe
 
 My journey began in clinical psychology, but I’ve discovered a love for solving problems with code—especially when it helps people in real life.
 
-  - Strong ability to take action and learn quickly
-  - Serious and passionate about digging deep
-  - Always ready to take on new challenges
-  - Good at making complex technical concepts easy for non-technical people to understand
+  - 🚀 Strong ability to take action and learn quickly
+  - 🔎 Serious and passionate about digging deep
+  - 🎯 Always ready to take on new challenges
+  - 🧩 Good at making complex technical concepts easy for non-technical people to understand
 
 
 ---
