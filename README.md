@@ -16,6 +16,11 @@ I'm passionate about creating user-friendly digital experiences that are informe
 
 My journey began in clinical psychology, but I’ve discovered a love for solving problems with code—especially when it helps people in real life.
 
+  - Strong ability to take action and learn quickly
+  - Serious and passionate about digging deep
+  - Always ready to take on new challenges
+
+
 ---
 
 
@@ -36,7 +41,7 @@ My journey began in clinical psychology, but I’ve discovered a love for solvin
 - 💬 Languages: TypeScript, HTML/CSS, Python (learning)
 - 🧰 Tools: VSCode, Git/GitHub, Figma(learning), Canva, Notion, Obsidian  
 - 🔧 Frameworks: React (learning), Next.js (learning), NestJS (learning)  
-- 🧠 Other: Cross-cultural teamwork, academic research, UX behavior modeling
+- 🧠 Other: Cross-cultural teamwork, analytical and logical thinking, UX behavior modeling
 
 
 ---
