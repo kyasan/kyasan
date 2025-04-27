@@ -40,7 +40,7 @@ My journey began in clinical psychology, but I’ve discovered a love for solvin
 ### 🛠 Skills (In Progress)
 
 - 💬 Languages: TypeScript, HTML/CSS, Python (learning)
-- 🧰 Tools: VSCode, Git/GitHub, Figma(learning), Canva, Notion, Obsidian  
+- 🧰 Tools: VSCode, Git/GitHub, Canva, Figma(learning)  
 - 🔧 Frameworks: React (learning), Next.js (learning), NestJS (learning)  
 - 🧠 Other: Cross-cultural teamwork, analytical and logical thinking, UX behavior modeling
 
