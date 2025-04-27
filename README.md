@@ -27,7 +27,7 @@ My journey began in clinical psychology, but I’ve discovered a love for solvin
 ### 📚 Background  
 
 - 📘 TOEIC 935 | TOEFL 91 | JLPT N1 -> All in a year  
-- 🎓 Studied at University of Pennsylvania (Short-term program) , leading in a multicultural team to complete a business project  
+- 🎓 Studied at University of Pennsylvania (Short-term program) , leading a multicultural team to complete a business project  
 - 👩‍💻 Self-taught TypeScript
 - 💾 Coding tiny web apps, designing planner inserts and stickers for fun  
 - 🎓 Preparing for 就活 as 27卒  
