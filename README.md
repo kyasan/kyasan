@@ -19,6 +19,7 @@ My journey began in clinical psychology, but I’ve discovered a love for solvin
   - Strong ability to take action and learn quickly
   - Serious and passionate about digging deep
   - Always ready to take on new challenges
+  - Good at making complex technical concepts easy for non-technical people to understand
 
 
 ---
@@ -28,7 +29,7 @@ My journey began in clinical psychology, but I’ve discovered a love for solvin
 
 - 📘 TOEIC 935 | TOEFL 91 | JLPT N1 -> All in a year  
 - 🎓 Studied at University of Pennsylvania (Short-term program) , leading a multicultural team to complete a business project  
-- 👩‍💻 Self-taught TypeScript
+- 👩‍💻 Self-taught in coding
 - 💾 Coding tiny web apps, designing planner inserts and stickers for fun  
 - 🎓 Preparing for 就活 as 27卒  
 
